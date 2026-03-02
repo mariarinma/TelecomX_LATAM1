@@ -117,7 +117,7 @@ Variables con mayor relación con churn:
 
 ##  Cómo Ejecutar el Proyecto
 
-1. Clonar el repositorio: git clone
+1. Clonar el repositorio: git clone <https://github.com/mariarinma/TelecomX_LATAM1>
 
 2. Abrir el notebook en Google Colab o Jupyter Notebook.
 
